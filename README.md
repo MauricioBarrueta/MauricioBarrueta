@@ -1,5 +1,5 @@
-■ ■ ■ ■ ■    █░█ █▀▀ █░░ █░░ █▀█   ▀█▀ █░█ █▀▀ █▀█ █▀▀    ■ ■ ■ ■ ■
-■ ■ ■ ■ ■    █▀█ ██▄ █▄▄ █▄▄ █▄█   ░█░ █▀█ ██▄ █▀▄ ██▄    ■ ■ ■ ■ ■
+█░█ █▀▀ █░░ █░░ █▀█   ▀█▀ █░█ █▀▀ █▀█ █▀▀
+█▀█ ██▄ █▄▄ █▄▄ █▄█   ░█░ █▀█ ██▄ █▀▄ ██▄
 
 🤓🖖 I'm Mauricio, a Web Developer 👨‍💻 and Information and Communication Technology (ICT) Engineer 👨‍🎓
 
