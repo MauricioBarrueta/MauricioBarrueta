@@ -10,12 +10,12 @@
 
 🎯 Muchas veces el no contar con experiencia laboral como tal suele ser un impedimento, aun así, mi principal objetivo es incorporarme al campo laboral para así poder aportar de manera positiva a alguna empresa, en donde además de poder crecer profesionalmente pueda hacerlo también a manera personal.
 
-Visita mi portafolio web para ver todos mis proyectos y otras formas de contactarme!
-🌐 https://mauriciobarrueta.github.io/portafolio/
+🌐 Visita mi portafolio web para ver todos mis proyectos y otras formas de contactarme: 
+https://mauriciobarrueta.github.io/portafolio/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🤓🖖 I'm Mauricio, a Web Developer 👨‍💻 and Information and Communication Technology (ICT) Engineer 👨‍🎓
+🤓🖖 I'm Mauricio, a Front end Web Developer 👨‍💻 and Information and Communication Technology (ICT) Engineer 👨‍🎓
 
 💬 As a web designer and developer I've created a wide variety of projects, some were for school projects, one was done as part of my internship and most were done as practice and study.
 
@@ -25,5 +25,5 @@ Visita mi portafolio web para ver todos mis proyectos y otras formas de contacta
 
 🎯 Many times the fact that I don't have work experience as such is usually an impediment, even so, my goal is to integrate into the labor field so I can contribute positively to a company, where besides being able to grow professionally I can also do it in a personal way.
 
-Visit my web portfolio to see all my projects and other ways to contact me. 
-🌐 https://mauriciobarrueta.github.io/portafolio/
+🌐 Visit my web portfolio to see all my projects and other ways to contact me: 
+https://mauriciobarrueta.github.io/portafolio/
