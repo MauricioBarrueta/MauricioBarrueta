@@ -1,8 +1,6 @@
-▌│█║▌║▌║      HELLO THERE      ║▌║▌║█│▌
+Hola mundo 🤓🖖!! Me llamo Edgar Mauricio, soy un desarrollador web front end egresado como ingeniero en Tecnologías de la Información y Comunicación (TIC) 👨‍🎓👨‍💻
 
-🤓🖖 Soy Mauricio, un Desarrollador Web Front end 👨‍💻 e Ingeniero en Tecnologías de la Información y Comunicación (TIC) 👨‍🎓
-
-💬 Como diseñador y programador web he creado una gran variedad de proyectos, algunos fueron para proyectos escolares, uno que fue hecho como parte de mis prácticas profesionales y la gran mayoría hechos a manera de práctica y estudio.
+💬 Como diseñador y programador web he creado una gran variedad de proyectos, algunos fueron para proyectos escolares, un par de ellos hechos durante mis periodos de prácticas profesionales en empresas y la gran mayoría hechos a manera de práctica y estudio.
 
 🧠 Algunas de mis habilidades técnicas son los lenguajes de programación Java, JavaScript, TypeScript, el framework Angular, principalmente, y un poco el framework Spring. HTML5, CSS3/SCSS, desde luego, además de varias de las herramientas y librerías indispensables para el desarrollo web, como Node.js, NPM, Bootstrap, Angular Material, jQuery, por mencionar algunas. Y por último, pero no menos relevante, el manejo de Git, GitHub y GitLab.
 
@@ -15,9 +13,9 @@ https://mauriciobarrueta.github.io/portafolio/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🤓🖖 I'm Mauricio, a Front end Web Developer 👨‍💻 and Information and Communication Technology (ICT) Engineer 👨‍🎓
+Hello world 🤓🖖!! My name is Edgar Mauricio, I'm a front end web developer graduated as an engineer in Information and Communication Technologies (ICT) 👨‍🎓👨‍💻
 
-💬 As a web designer and developer I've created a wide variety of projects, some were for school projects, one was done as part of my internship and most were done as practice and study.
+💬 As a web designer and developer I've created a wide variety of projects, some of them were for school projects, a couple of them made during my internships in companies and the vast majority made as practice and study.
 
 🧠 Some of my technical skills are Java, JavaScript and TypeScript programming languages, the Angular framework, mainly, and a little of the Spring framework. HTML5, CSS3/SCSS, of course, as well as several of the indispensable tools and libraries for web development, like Node.js, NPM, Bootstrap, Angular Material, jQuery, to name a few. And last, but not least, the use of Git, GitHub and GitLab.
 
