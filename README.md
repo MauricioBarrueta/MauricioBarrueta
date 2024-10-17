@@ -1,4 +1,4 @@
-<h2>Hola</h2>
+<h2 align="center">🤜 MAURICIO BARRUETA 🤛</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
