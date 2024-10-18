@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README</title>
-</head>
-
-<body>
   <button onclick="langChange('es')">Español</button>
   <button onclick="langChange('en')">English</button>
   <h2 style="text-align: center;" data-es="Hola" data-en="Hi">🖖🙂&nbsp; Mi nombre es Edgar Mauricio Barrueta Aguirre</h2>
@@ -34,6 +25,4 @@
       langChangeAlert()
     })
   </script>
-</body>
 
-</html>
