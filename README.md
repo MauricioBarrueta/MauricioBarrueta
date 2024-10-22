@@ -3,4 +3,4 @@
 
 <img src="https://api.iconify.design/fxemoji:meridianglobe.svg"> • Visita mi [portafolio web](https://mauriciobarrueta.github.io/portafolio/) para conocer más sobre mis habilidades y proyectos 🔗
 
-<img src="https://api.iconify.design/devicon:linkedin.svg"> • Mi perfil de [LinkedIn](https://mauriciobarrueta.github.io/portafolio/) 🔗
+<img src="https://api.iconify.design/devicon:linkedin.svg"> • Mi perfil de [LinkedIn](http://www.linkedin.com/in/mauricio-barrueta) 🔗
