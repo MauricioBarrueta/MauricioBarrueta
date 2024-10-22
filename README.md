@@ -5,7 +5,7 @@
 
 ***
 
-<img src="https://api.iconify.design/fxemoji:meridianglobe.svg"> • Visita mi [portafolio web](https://mauriciobarrueta.github.io/portafolio/) para conocer más sobre mis proyectos, conocimientos y otras formas de contactarme 🔗
+<img src="https://api.iconify.design/fxemoji:meridianglobe.svg"> • Visita mi [portafolio](https://mauriciobarrueta.github.io/portafolio/) para conocer más sobre mis proyectos, conocimientos y otras formas de contacto 🔗
 
 <img src="https://api.iconify.design/devicon:linkedin.svg"> • Mi perfil de [LinkedIn](http://www.linkedin.com/in/mauricio-barrueta) 🔗
 
