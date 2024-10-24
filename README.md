@@ -1,9 +1,12 @@
 <h2 align="center">Edgar Mauricio Barrueta Aguirre 🫡</h2>
 <p align="center">👨‍💻 Soy un desarrollador web front end egresado de la ingeniería en Tecnologías de la Información y Comunicación (TIC) de la Universidad Tecnológica del Sur del Estado de México (UTSEM) 👨‍🎓</p>
 
-<h3 align="center">Habilidades principales</h3><hr/>
-
-***
+<h3 align="center">Habilidades principales</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,c,vim&theme=dark&perline=3" />
+  </a>
+</p>
 
 <img src="https://api.iconify.design/fxemoji:meridianglobe.svg"> • Visita mi [portafolio](https://mauriciobarrueta.github.io/portafolio/) para conocer más sobre mis proyectos, conocimientos y otras formas de contacto 🔗
 
