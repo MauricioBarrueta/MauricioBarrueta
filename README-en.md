@@ -21,5 +21,5 @@ and other forms of contact 🔗
 <img src="https://api.iconify.design/logos:telegram.svg"> • Contact me via [Telegram](https://t.me/MauricioBarrueta) 🔗
 
 <p align="right">  
-  <a href="https://github.com/MauricioBarrueta/MauricioBarrueta/blob/main/README.md">Español</a>
+  <a href="https://github.com/MauricioBarrueta/MauricioBarrueta/blob/main/README.md">🇲🇽 Español</a>
 </p>
