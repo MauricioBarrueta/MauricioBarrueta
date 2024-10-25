@@ -19,5 +19,5 @@
 <img src="https://api.iconify.design/logos:telegram.svg"> • Contáctame por medio de [Telegram](https://t.me/MauricioBarrueta) 🔗
 
 <p align="right">  
-  <a href="https://github.com/MauricioBarrueta/MauricioBarrueta/blob/main/README-en.md">English</a>
+  <a href="https://github.com/MauricioBarrueta/MauricioBarrueta/blob/main/README-en.md">🇺🇸 English</a>
 </p>
