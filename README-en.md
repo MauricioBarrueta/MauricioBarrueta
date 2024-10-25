@@ -14,12 +14,12 @@
 <img src="https://api.iconify.design/fxemoji:meridianglobe.svg"> • Visit my [portfolio](https://mauriciobarrueta.github.io/portafolio/) to learn more about my projects, knowledges 
 and other forms of contact 🔗
 
-<img src="https://api.iconify.design/bi:github.svg?color=%23ffffff"> • Check out my [repositories](https://github.com/MauricioBarrueta?tab=repositories) 🔗
+<img src="https://api.iconify.design/ion:logo-github.svg?color=%23ffffff"> • Check out my [repositories](https://github.com/MauricioBarrueta?tab=repositories) 🔗
 
 <img src="https://api.iconify.design/devicon:linkedin.svg"> • My [LinkedIn](https://www.linkedin.com/in/mauricio-barrueta/?locale=en_US) profile 🔗 
 
 <img src="https://api.iconify.design/logos:telegram.svg"> • Contact me via [Telegram](https://t.me/MauricioBarrueta) 🔗
 
 <p align="right">  
-  <a href="https://github.com/MauricioBarrueta/MauricioBarrueta/blob/main/README.md">🇲🇽 Español</a>
+  <img src="https://api.iconify.design/circle-flags:mx.svg"> <a href="https://github.com/MauricioBarrueta/MauricioBarrueta/blob/main/README.md">Español</a>
 </p>
