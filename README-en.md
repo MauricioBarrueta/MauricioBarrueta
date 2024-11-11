@@ -4,8 +4,8 @@
 
 <h3 align="center">🧠 Some technical skills ⚙️</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,angular,reactivex,java,spring,html,css,sass,bootstrap,jquery,nodejs,npm,git,github,gitlab&theme=dark&perline=8" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,angular,reactivex,java,spring,nodejs,npm,html,css,sass,bootstrap,jquery,git,github,gitlab&theme=dark&perline=8" />
   </a>
 </p>
 
