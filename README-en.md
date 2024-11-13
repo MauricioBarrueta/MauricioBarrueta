@@ -1,6 +1,6 @@
-<h2 align="center">Edgar Mauricio Barrueta Aguirre 🫡</h2>
+<h2 align="center">Edgar Mauricio Barrueta Aguirre ✌️😬</h2>
 <p align="center">👨‍💻 I'm a front end web developer graduated from the Information and Communication Technologies (ICT) engineering from Universidad Tecnológica del Sur del Estado de 
-  México (UTSEM) 👨‍🎓</p>
+  México (UTSEM) 🎓</p>
 
 <h3 align="center">🧠 Some technical skills ⚙️</h3>
 <p align="center">
