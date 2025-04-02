@@ -7,7 +7,6 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,angular,rxjs,spring,bootstrap,tailwind,nodejs,npm,jquery,firebase,json,html,css,sass,git,github,gitlab,vscode&theme=dark&perline=10" />
   </a>
 </p>
-to explore all my projects and find other ways to contact me
 <h2 align="center">Means of contact 💬</h2>
 
 <img src="https://api.iconify.design/fxemoji:meridianglobe.svg"> • Visit my [portfolio](https://mauriciobarrueta.github.io/portafolio/) to explore all my projects and find other ways to contact me 🔗
