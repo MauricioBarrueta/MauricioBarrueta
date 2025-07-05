@@ -9,7 +9,7 @@
 </p>
 
 
-<h2 align="center">💬 Medios de contacto</h2>
+<h2 align="center">💬 Medios de contacto:</h2>
 
 <img src="https://api.iconify.design/fxemoji:meridianglobe.svg"> • Visita mi [portafolio](https://mauriciobarrueta.github.io/portafolio/) para conocer todos mis proyectos y otras formas de contactarme 🔗
 
