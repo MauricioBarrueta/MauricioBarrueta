@@ -4,7 +4,7 @@
 <h3 align="center">🧠 Some of my technical skills:</h3>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,html,css,sass,angular,rxjs,spring,jquery,nodejs,npm,bootstrap,tailwind,git,github,gitlab,firebase&theme=dark&perline=9" /> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,html,css,sass,angular,rxjs,spring,bootstrap,tailwind,jquery,nodejs,npm,git,github,gitlab,firebase&theme=dark&perline=9" /> 
   </a>
 </p>
 <h3>💬 Ways to contact me:</h3>
